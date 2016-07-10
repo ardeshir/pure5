@@ -1,4 +1,4 @@
-"use strict"l
+"use strict";
 
 function App() {
 	var version = "v0.1";
