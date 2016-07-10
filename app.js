@@ -14,3 +14,8 @@ function App() {
 	}; 
 
 } // end of App
+
+$(function() {
+	window.app = new App();
+	window.app.start();
+});
