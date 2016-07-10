@@ -18,5 +18,25 @@ button {
 	display: none;
 }
 
+#app {
+	margin: 4px;
+	background-color: #bbc;
+}
 
+#app > header {
+	padding: 0 0.5em;
+	font-size: 1.5em;
+	color: WhiteSmoke;
+	background-color: #006;
+}
+
+#app > footer {
+	padding: 0.25em;
+	color: WhiteSmoke;
+	background-color: #006;
+}
+
+#main {
+	margin: 1em;
+}
 
